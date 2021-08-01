@@ -25,5 +25,5 @@
 ## 사용 기술
 
 * Python flask framework
-* Jinja
+* Jinja2 
 * PyJWT
