@@ -27,4 +27,3 @@
 * Python flask framework
 * Jinja
 * PyJWT
-* Jquery
